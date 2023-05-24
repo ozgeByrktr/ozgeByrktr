@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1295900106/tr/foto%C4%9Fraf/veri-bilimcileri-erkek-programc%C4%B1-diz%C3%BCst%C3%BC-bilgisayar-analiz-ve-f%C3%BCt%C3%BCristik-sanal-aray%C3%BCz.jpg?s=612x612&w=0&k=20&c=Xo77ligYs6Wy1MjpEsN8buS7h1OP0n9-_rEr_oKQFsU=)
+[![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Ozge Bayraktar</h1>
 <h3 align="center">A passionate SDET(QA) from Turkey</h3>
 
