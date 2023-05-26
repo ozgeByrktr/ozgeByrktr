@@ -1,4 +1,4 @@
-[![MasterHead](https://st2.depositphotos.com/2673929/46588/i/600/depositphotos_465883926-stock-photo-top-view-two-colleagues-working.jpg)
+[![MasterHead](https://st2.depositphotos.com/1000975/46727/i/1600/depositphotos_467273236-stock-photo-businessman-in-various-agile-methods.jpg)
 <h1 align="center">Hi 👋, I'm Ozge Bayraktar</h1>
 <h3 align="center">A passionate SDET(QA) from Turkey</h3>
 
